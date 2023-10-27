@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshObrien24
-- 👀 I’m interested in becoming a inventor.
-- 🌱 I’m currently learning python, html, css, java, javascript.
+- 👀 I’m interested in becoming a proggramer
+- 🌱 I’m currently learning python, and java.
 - 💞️ I’m looking to collaborate on code.
 - 📫 How to reach me ...
 
