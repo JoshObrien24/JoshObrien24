@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JoshObrien24
-- 👀 I’m interested in becoming a proggramer
+- 👀 I’m interested in becoming a programmer
 - 🌱 I’m currently learning python, and java.
-- 💞️ I’m looking to collaborate on code.
 - 📫 How to reach me ...
 
 <!---
